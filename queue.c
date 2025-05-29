@@ -28,6 +28,7 @@ void dequeue(){
 }
 void display(){
     int i;
+    sdjnsndsjd
     printf("The elements are:");
         for(i=front;i<=rear;i++){
             printf("\t%d\t",q[i]);
