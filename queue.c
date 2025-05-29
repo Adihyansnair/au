@@ -44,6 +44,7 @@ int main(){
     scanf("%d",&ch);
     switch(ch){ 
         case(1):
+            sjjdnsjdnjsndj
             printf("Enter the element\n");
             scanf("%d",&ele);
             enqueue(ele);
