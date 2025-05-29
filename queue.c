@@ -1,3 +1,4 @@
+Appu
 #include<stdio.h>
 #include<stdlib.h>
 #define maxsize 5
@@ -28,7 +29,6 @@ void dequeue(){
 }
 void display(){
     int i;
-    sdjnsndsjd
     printf("The elements are:");
         for(i=front;i<=rear;i++){
             printf("\t%d\t",q[i]);
@@ -44,7 +44,6 @@ int main(){
     scanf("%d",&ch);
     switch(ch){ 
         case(1):
-            sjjdnsjdnjsndj
             printf("Enter the element\n");
             scanf("%d",&ele);
             enqueue(ele);
@@ -66,7 +65,7 @@ int main(){
         }
     
 return 0;
-    skdmskdskdjdsixm
+   
 
 
 }
